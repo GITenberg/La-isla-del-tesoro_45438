@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35
     wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45438#La-isla-del-tesoro
 gutenberg_issued: '2014-04-19'
 gutenberg_type: Text
 identifiers:
